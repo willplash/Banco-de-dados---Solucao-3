@@ -14,3 +14,5 @@ O banco de dados foi criado a partir do Entity Framework.
 Os requisitos de utilizar uma UI offline (Windows forms) e uma API (ASP Web API) não foram atendidos.
 
 O projeto foi desenvolvido no Visual Studio 2017 em C#.
+
+O arquivo que foi "upado" para o repositório é o .RAR dos arquivos do projeto no Visual Studio 2017.
